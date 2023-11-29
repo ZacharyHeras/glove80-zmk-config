@@ -116,7 +116,7 @@
 &none         &none         &none       &none                 &none                  &kp HOME                                                             &kp LPAR      &kp KP_NUM    &kp KP_EQUAL   &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp PSCRN
 &none         &none         &kp MINUS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp END                                                              &kp RPAR      &kp SLASH     &kp BACKSLASH  &kp KP_N9      &kp KP_MINUS     &kp SLCK
 &none         &kp NUMBER_1  &kp N2      &kp NUMBER_3          &kp NUMBER_4           &kp NUMBER_5                                                         &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8   &kp NUMBER_9   &kp NUMBER_0     &none
-&none         &none         &none       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PG_DN     &none  &none  &to DEFAULT  &none  &none    &none       &kp COMMA     &kp LEFT_GUI  &kp TAB        &kp KP_N3      &kp KP_ENTER     &none
+&none         &none         &none       &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PG_DN     &none  &none  &to DEFAULT  &none  &none    &kp RSHFT   &kp COMMA     &kp LEFT_GUI  &kp TAB        &kp KP_N3      &kp KP_ENTER     &none
 &none         &kp CAPS      &kp INS     &kp F11               &kp F12                              &none  &none  &none        &none  &kp TAB  &kp ESCAPE                &kp KP_N0     &kp KP_N0      &kp KP_DOT     &kp KP_ENTER     &none
             >;
         };
