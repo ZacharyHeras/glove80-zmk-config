@@ -99,7 +99,7 @@
 &kp TAB         &kp SQT        &kp COMMA  &kp PERIOD  &kp P      &kp Y                                                                        &kp F   &kp G   &kp C     &kp R     &kp L     &kp BSLH
 &kp ESC         &kp A          &kp O      &kp E       &kp U      &kp I                                                                        &kp D   &kp H   &kp T     &kp N     &kp S     &kp END
 &kp GRAVE       &kp SEMICOLON  &kp Q      &kp J       &kp K      &kp X   &kp LCTRL  &kp LEFT_SHIFT  &kp DEL   &kp LGUI  &kp RCTRL  &kp RSHFT  &kp B   &kp M   &kp W     &kp V     &kp Z     &kp PG_UP
-&magic MAGIC 0  &kp BACKSLASH  &kp MINUS  &kp LEFT    &kp RIGHT          &kp BSPC   &mo 1           &kp LALT  &kp RALT  &kp RET    &kp SPACE          &kp UP  &kp DOWN  &kp LBKT  &kp RBKT  &kp PG_DN
+&magic MAGIC 0  &kp BACKSLASH  &kp MINUS  &kp LEFT    &kp RIGHT          &kp SPACE  &mo 1           &kp LALT  &kp RALT  &kp RET    &kp SPACE          &kp UP  &kp DOWN  &kp LBKT  &kp RBKT  &kp PG_DN
             >;
         };
 
